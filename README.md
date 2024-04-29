@@ -1,4 +1,4 @@
-# Sony Ericsson Xperia X8 (Stock ROMs)
+# Sony Ericsson Xperia X8 (Drivers)
 ![Sony Ericsson Xperia X8](Phone.jpg)
 
 ## Download links
